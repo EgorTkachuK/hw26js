@@ -1,0 +1,1 @@
+{"mappings":"AAEA;;;;AAEA","sources":["style.css"],"sourcesContent":["\r\n/* .inputlist{display: flex;} */\r\n.input_item{display: flex;}\r\n\r\n.button{\r\n    width: 80px;\r\n    height: 40px;\r\n}"],"names":[],"version":3,"file":"index.3a01df49.css.map","sourceRoot":"/__parcel_source_root/"}

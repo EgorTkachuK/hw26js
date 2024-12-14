@@ -1,0 +1,8 @@
+
+/* .inputlist{display: flex;} */
+.input_item{display: flex;}
+
+.button{
+    width: 80px;
+    height: 40px;
+}
